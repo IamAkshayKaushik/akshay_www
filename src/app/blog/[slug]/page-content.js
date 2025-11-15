@@ -1,4 +1,8 @@
-"use client";
+/* The `"use client";` statement is not a standard JavaScript syntax. It seems like it might be a
+custom directive or comment specific to the codebase or tooling being used. In JavaScript,
+statements like `"use strict";` are used to enable strict mode in the script, but `"use client";` is
+not a recognized directive in JavaScript. */
+// "use client";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
 import Link from "next/link";
